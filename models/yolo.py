@@ -6,6 +6,7 @@ Usage:
     $ python models/yolo.py --cfg yolov5s.yaml
 """
 
+import logging
 import argparse
 import contextlib
 import os
